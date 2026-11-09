@@ -2,7 +2,7 @@
 
 This is the repository for the IJCB-SYN-MAD-2022: Competition on Face Morphing Attack Detection Based on Privacy-aware Synthetic Training Data. The competition was held at the [International Joint Conference on Biometrics 2022](https://ijcb2022.org/#/). 
 
-The final results of the competition will be presented in a summary paper at IJCB 2022. The link to the paper will be added soon.
+The final results of the competition were presented in a summary paper at IJCB 2022. The paper can be accessed here: [Paper](https://arxiv.org/abs/2208.07337)
 
 ## Competition Training Data ##
 The synthetic training data that the competitors were allowed to use for training the morphing detectors was limited to the SMDD dataset. This can be requested [here](https://github.com/naserdamer/SMDD-Synthetic-Face-Morphing-Attack-Detection-Development-dataset). In addition, we also provide two files containing the bounding boxes and facial landmark points: 
@@ -24,7 +24,10 @@ were x1, x2, y1 and y2 are the bounding boxs points. And all others number refer
 ## Competition Testing Data ##
 For the evaluation of the submissions a new benchmark, MAD22 has been created by the organizers of the competittion. The benchmark is based on the [Face Research Lab London dataset (FRLL)](https://figshare.com/articles/dataset/Face_Research_Lab_London_Set/5047666). The created benchmark contains 4483 morphed face images and 204 bona fide images from the FRLL dataset and five different morphing approaches (three landmark-based, two GAN-based) has been used to create the dataset. For more details on the benchmark, we refer to the competition summary paper.
 
-The MAD22 benchmark can be requested [here](https://drive.google.com/drive/folders/1w6E9059Ro_ajvw8DjaNMvETiFSXfmSAp). **Please share your name, affiliation, and official email in the request form**. The bounding boxes and landmarks are included and presented in the same way as described above.
+
+The MAD22 benchmark can be requested per mail at: marco.huber@igd.fraunhofer.de . **Please share your name, affiliation, and official email in the request form**. The bounding boxes and landmarks are included and presented in the same way as described above.
+
+UPDATE Nov 2026: Due to an automatic update and content scant from Google Drive, some parts of the dataset has been removed. The completeness of the data provided previously over Google Drive cannot be ensured. Please request the dataset again with writing an Email to: marco.huber@igd.fraunhofer.de.
 
 
 If you use the MAD22 benchmark, please cite:
