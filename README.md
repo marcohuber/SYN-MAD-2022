@@ -32,22 +32,38 @@ UPDATE Nov 2026: Due to an automatic update and content scant from Google Drive,
 
 If you use the MAD22 benchmark, please cite:
 ```
-@misc{https://doi.org/10.48550/arxiv.2208.07337,
-  doi = {10.48550/ARXIV.2208.07337},
-  
-  url = {https://arxiv.org/abs/2208.07337},
-  
-  author = {Huber, Marco and Boutros, Fadi and Luu, Anh Thi and Raja, Kiran and Ramachandra, Raghavendra and Damer, Naser and Neto, Pedro C. and Gonçalves, Tiago and Sequeira, Ana F. and Cardoso, Jaime S. and Tremoço, João and Lourenço, Miguel and Serra, Sergio and Cermeño, Eduardo and Ivanovska, Marija and Batagelj, Borut and Kronovšek, Andrej and Peer, Peter and Štruc, Vitomir},
-  
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {SYN-MAD 2022: Competition on Face Morphing Attack Detection Based on Privacy-aware Synthetic Training Data},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@inproceedings{DBLP:conf/icb/HuberBLRRDNGSCT22,
+  author       = {Marco Huber and
+                  Fadi Boutros and
+                  Anh Thi Luu and
+                  Kiran B. Raja and
+                  Raghavendra Ramachandra and
+                  Naser Damer and
+                  Pedro C. Neto and
+                  Tiago Gon{\c{c}}alves and
+                  Ana Filipa Sequeira and
+                  Jaime S. Cardoso and
+                  Jo{\~{a}}o Tremo{\c{c}}o and
+                  Miguel Louren{\c{c}}o and
+                  Sergio Serra and
+                  Eduardo Cerme{\~{n}}o and
+                  Marija Ivanovska and
+                  Borut Batagelj and
+                  Andrej Kronovsek and
+                  Peter Peer and
+                  Vitomir Struc},
+  title        = {{SYN-MAD} 2022: Competition on Face Morphing Attack Detection Based
+                  on Privacy-aware Synthetic Training Data},
+  booktitle    = {{IEEE} International Joint Conference on Biometrics, {IJCB} 2022,
+                  Abu Dhabi, United Arab Emirates, October 10-13, 2022},
+  pages        = {1--10},
+  publisher    = {{IEEE}},
+  year         = {2022},
+  url          = {https://doi.org/10.1109/IJCB54206.2022.10007950},
+  doi          = {10.1109/IJCB54206.2022.10007950},
+  timestamp    = {Tue, 13 Jan 2026 12:10:37 +0100},
+  biburl       = {https://dblp.org/rec/conf/icb/HuberBLRRDNGSCT22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
 ```
