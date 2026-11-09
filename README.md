@@ -22,12 +22,12 @@ The values in each row are structured as follows:
 were x1, x2, y1 and y2 are the bounding boxs points. And all others number refer to the respective coordinates of the face landmarks (left eye, right eye, nose, mouth left, mouth right).
 
 ## Competition Testing Data ##
-For the evaluation of the submissions a new benchmark, MAD22 has been created by the organizers of the competittion. The benchmark is based on the [Face Research Lab London dataset (FRLL)](https://figshare.com/articles/dataset/Face_Research_Lab_London_Set/5047666). The created benchmark contains 4483 morphed face images and 204 bona fide images from the FRLL dataset and five different morphing approaches (three landmark-based, two GAN-based) has been used to create the dataset. For more details on the benchmark, we refer to the competition summary paper.
+For the evaluation of the submissions a new benchmark, MAD22 has been created by the organizers of the competition. The benchmark is based on the [Face Research Lab London dataset (FRLL)](https://figshare.com/articles/dataset/Face_Research_Lab_London_Set/5047666). The created benchmark contains 4483 morphed face images and 204 bona fide images from the FRLL dataset and five different morphing approaches (three landmark-based, two GAN-based) has been used to create the dataset. For more details on the benchmark, we refer to the competition summary paper.
 
 
 The MAD22 benchmark can be requested per mail at: marco.huber@igd.fraunhofer.de . **Please share your name, affiliation, and official email in the request form**. The bounding boxes and landmarks are included and presented in the same way as described above.
 
-UPDATE Nov 2026: Due to an automatic update and content scant from Google Drive, some parts of the dataset has been removed. The completeness of the data provided previously over Google Drive cannot be ensured. Please request the dataset again with writing an Email to: marco.huber@igd.fraunhofer.de.
+UPDATE Nov 2026: Due to an automatic update and content scan from Google Drive, some parts of the dataset has been removed. The completeness of the data provided previously over Google Drive cannot be ensured. The dataset will not longer be provided using Google Drive. Please request the dataset again with writing an Email to: marco.huber@igd.fraunhofer.de.
 
 
 If you use the MAD22 benchmark, please cite:
